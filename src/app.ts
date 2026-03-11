@@ -1,5 +1,3 @@
-console.log(">>> TOI DANG CHAY FILE APP.TS NAY!!!");
-
 import express from "express";
 import path from "node:path";
 import { rootRouter } from "./routes/index.route";
